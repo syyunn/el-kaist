@@ -9,3 +9,5 @@ http://dbgroup.cs.tsinghua.edu.cn/wangjy/papers/TKDE14-entitylinking.pdf
 ## Clustering algorithms
 
 https://developers.google.com/machine-learning/clustering/clustering-algorithms
+
+https://arxiv.org/pdf/1511.06335.pdf
