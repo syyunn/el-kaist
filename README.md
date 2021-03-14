@@ -10,4 +10,9 @@ http://dbgroup.cs.tsinghua.edu.cn/wangjy/papers/TKDE14-entitylinking.pdf
 
 https://developers.google.com/machine-learning/clustering/clustering-algorithms
 
+
+learning embedding for better clustering 
 https://arxiv.org/pdf/1511.06335.pdf
+
+survey
+https://academic.oup.com/bib/article/22/1/393/5721075
